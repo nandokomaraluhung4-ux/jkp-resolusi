@@ -1,5 +1,5 @@
 JKP resolusi
 - Mematangkan Kemampuan Programing
-- membuat website untuk UMKM
 - medapatkasn 10 juta pertama dari coding
 - bergabung dengan komunitas 
+- belajar javascript
